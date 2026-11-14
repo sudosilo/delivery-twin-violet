@@ -1,8 +1,10 @@
+2026-11-13, v2026.11.13. Created Delivery Twin Violet as a copy of Field Twin Violet for the Delivery Twin family. It tracks parts with photos, vendors, reorder levels, an order list, and moves between locations.
+
 2026-11-10, v2026.11.10. Added one look across the Delivery Twin apps, so the map, inventory, and roads share a design. Added a night look that follows sunset and sunrise, and a drawn sign for every kind of place.
 
-2026-11-06, v2026.11.06. Added company parts, working and not working counts, and a Count stuff action for taking inventory. The company parts list loads in one tap from Setup, shows in the parts picker with kind and customer filters, and can be exported as a count sheet in the warehouse layout or imported back to set counts. Label photos now match the parts library, and one photo can hold several parts, each matched on its own. Added ticket tracking on orders, Undo for wrong history entries, a read only check link, and weekly inventory reports every Friday morning. Truck is now the default location for parts.
-
 2026-11-07, v2026.11.07. Added a way to log an order from outside the app.
+
+2026-11-06, v2026.11.06. Added company parts, working and not working counts, and a Count stuff action for taking inventory. The company parts list loads in one tap from Setup, shows in the parts picker with kind and customer filters, and can be exported as a count sheet in the warehouse layout or imported back to set counts. Label photos now match the parts library, and one photo can hold several parts, each matched on its own. Added ticket tracking on orders, Undo for wrong history entries, a read only check link, and weekly inventory reports every Friday morning. Truck is now the default location for parts.
 
 2026-10-21, v2026.10.21. Sign in now also works when handed over from one more Delivery Twin app. Removed an address from the app.
 
